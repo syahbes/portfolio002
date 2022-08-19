@@ -1,0 +1,63 @@
+{
+    "portfolio": [
+        {
+            "cover": "https://i.postimg.cc/02rr1NMX/image.png",
+            "title": "Emoji Match",
+            "desc": "Memory Game with Emojies, build with react and the project is looking great on mobile",
+            "url": "https://memorygame-eosin.vercel.app/",
+            "id": "001",
+            "src_code": "https://github.com/syahbes/memorygame"
+        },
+        {
+            "cover": "https://i.postimg.cc/rF3RYTHX/image.png",
+            "title": "Multi Crypto Wallet",
+            "desc": "Made on demand to view multi wallets ETH balance, with API call",
+            "url": "https://62eac57b9df3d70263199dea--multi-wallets-dashboard.netlify.app",
+            "id": "002",
+            "src_code": "https://github.com/syahbes/multi-eth-wallets"
+        },
+        {
+            "cover": "https://i.postimg.cc/WpXHPRXW/image.png",
+            "title": "To do list",
+            "desc": "To-do app with Firebase API as data store, I use it on daily base",
+            "url": "https://react-todo-simple-firebase.vercel.app/",
+            "id": "003",
+            "src_code": "https://github.com/syahbes/react-todo-simple-firebase"
+        },
+        {
+            "cover": "https://i.postimg.cc/gjNY3cbX/fullView.png",
+            "title": "Shopping Cart",
+            "desc": "Add / Remove from Cart using Redux toolkit , Firebase and MUI",
+            "url": "https://redux-cart-nine.vercel.app/",
+            "id": "004",
+            "src_code": "https://github.com/syahbes/redux-cart"
+        },
+        
+        {
+            "cover": "https://i.postimg.cc/br1Ct4Yp/image.png",
+            "title": "Cryptoverse",
+            "desc": "Mini site using Rapid API Redux, React, Router - responsive",
+            "url": "https://crypto-esc-react.netlify.app/",
+            "id": "005" ,
+            "src_code": "https://github.com/syahbes/cryptoapp"
+        },
+        {
+            "cover": "https://i.postimg.cc/Pxq2QZJQ/image.png",
+            "title": "Weather App",
+            "desc": "React app with Rapid API Material UI - responsive and lookig great on mobile",
+            "url": "https://weather-app-react-kyw4nwchm-syahbes.vercel.app/",
+            "id": "006" ,
+            "src_code": "https://github.com/syahbes/weather-app-react"  
+        },
+        {
+            "cover": "https://i.postimg.cc/sxCqLnBz/image.png",
+            "title": "25+5 Pomodoro Timer",
+            "desc": "This is the Final project of FCC, using react and CSS for styling",
+            "url": "https://pomadoro-25-5-clock.vercel.app/",
+            "id": "007",
+            "src_code": "https://github.com/syahbes/pomadoro-25-5-clock"
+
+        }
+    ]
+
+}
